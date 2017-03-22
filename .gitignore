@@ -1,0 +1,9 @@
+/.idea/
+/out/
+/target/
+/Execution.txt
+/can-bus.avsc
+/cert.crt
+/game-event.avsc
+/nhtsa-complaint.avsc
+/vehicle-service-invoice.avsc

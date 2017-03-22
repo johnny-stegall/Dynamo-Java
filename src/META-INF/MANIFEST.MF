@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Class-Path: lib/azure-keyvault-core-0.8.0.jar lib/commons-cli-1.2.jar 
+ lib/javax.json-1.0.4.jar lib/jackson-core-asl-1.9.13.jar lib/slf4j-ap
+ i-1.7.12.jar lib/commons-io-2.5.jar lib/iothub-java-service-client-1.
+ 0.9.jar lib/multilang-ruby-0.10.0.jar lib/avro-1.8.1.jar lib/azure-ev
+ enthubs-0.8.2.jar lib/twitter4j-stream-4.0.5.jar lib/azure-storage-4.
+ 4.0.jar lib/jackson-mapper-asl-1.9.13.jar lib/jackson-annotations-2.8
+ .0.jar lib/xz-1.5.jar lib/flux-wrappers-0.10.0.jar lib/bcprov-jdk15on
+ -1.49.jar lib/org.eclipse.paho.client.mqttv3-1.0.2.jar lib/paranamer-
+ 2.7.jar lib/commons-logging-1.2.jar lib/commons-compress-1.8.1.jar li
+ b/multilang-javascript-0.10.0.jar lib/httpclient-4.5.2.jar lib/kafka-
+ clients-0.10.0.1.jar lib/commons-lang3-3.4.jar lib/httpcore-4.4.4.jar
+  lib/twitter4j-core-4.0.5.jar lib/jackson-databind-2.8.3.jar lib/prot
+ on-j-0.14.0.jar lib/bcpkix-jdk15on-1.49.jar lib/flux-core-0.10.0.jar 
+ lib/multilang-python-0.10.0.jar lib/jackson-core-2.8.3.jar lib/lz4-1.
+ 3.0.jar lib/gson-2.3.1.jar lib/commons-codec-1.10.jar lib/snappy-java
+ -1.1.1.3.jar lib/proton-j-azure-iot-dev-0.12.3.jar lib/iothub-java-de
+ vice-client-1.0.14.jar lib/proton-j-azure-iot-0.12.2.jar
+Main-Class: dynamo.Dynamo
+
